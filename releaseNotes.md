@@ -1,0 +1,2 @@
+- next feature will be database integration
+- improve style
